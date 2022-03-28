@@ -2,3 +2,5 @@ git init -> to initialise git.
 git status -> to list all untracked files
 git add -A -> adding files to stagingArea
 git commit -m"message" ->to add files to local repo
+git remote add name path -> to add remote
+git push -u name master
